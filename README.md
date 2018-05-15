@@ -1,4 +1,3 @@
-# dafa
-DAFA: decentralised autonomous funding agent
+# DAFA: decentralised autonomous funding agent
 
 Coming soon...
